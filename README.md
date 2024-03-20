@@ -1,5 +1,5 @@
 # banco-de-dados
-- estudos:
+estudos:
 - banco de dados
 - modelagem de dados
 - SQL 
